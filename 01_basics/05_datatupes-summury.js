@@ -46,13 +46,18 @@
 
 
 
-const myFunction = function(){
-    console.log("hello world");
-}
+// const myFunction = function(){
+//     console.log("hello world");
+// }
 
 
-myFunction();
+// myFunction();
 
-console.log(typeof myFunction)
+// console.log(typeof myFunction)
+
+
+
+
+// stack (primitive), heap (non primitive)
 
 
